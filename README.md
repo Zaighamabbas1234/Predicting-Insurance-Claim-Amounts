@@ -1,2 +1,2 @@
 # Predicting-Insurance-Claim-Amounts
-Estimate The Medical Insurance Claim Amount Based On Personal Data.
+Data Science & Analytics Intership practice Task 04 by Zaigham Abbas at DevelopersHub Corporation, Islamabad.
